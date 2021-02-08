@@ -15,6 +15,8 @@ Below is the breakdown of the number of individuals retiring by title as well as
 
 ![](/Data/retiring_titles.png)
 
+![](/Data/mentorship_eligibility.png)
+
 The data indicates there are several factors the hiring dempartment might want to consider going forward:
 
 1. 90,398 employees fall within the eligible retirement range.
